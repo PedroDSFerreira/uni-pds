@@ -1,0 +1,2 @@
+software;farmer;villager hacker
+pool;mouse;

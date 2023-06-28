@@ -1,0 +1,4 @@
+comer		computador		engenharia	oftalmologista
+estudar; informatica		janela	compilador
+otorrinolaringologista		praia		Roberto	;televisao
+paralelepipedo caracteristica ;telecomunicacoes

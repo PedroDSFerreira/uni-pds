@@ -1,0 +1,16 @@
+bear            4      1,2      DownRight 
+lion            4      5,3      DownRight 
+toad            4      5,4      DownLeft  
+frog            4      4,1      Down      
+panda           5      3,3      Right     
+goat            4      1,4      Right     
+tiger           5      2,4      Right     
+
+ .  B  .  G  O  A  T  . 
+ .  .  E  T  I  G  E  R 
+ .  .  P  A  N  D  A  . 
+ F  .  .  .  R  .  .  . 
+ R  .  L  T  .  .  .  . 
+ O  .  O  I  .  .  .  . 
+ G  A  .  .  O  .  .  . 
+ D  .  .  .  .  N  .  . 

@@ -1,0 +1,6 @@
+Ex. 4
+
+- Factory Method(Calendar.getInstance())
+- Abstract Factory (Calendar.createCalendar())
+- Builder (StringBuilder)
+- Prototype (Object.clone())

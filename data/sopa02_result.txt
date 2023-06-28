@@ -1,0 +1,21 @@
+programming      11       12,6     Up 
+java             4        9,1      Down 
+words            5        11,11    UpLeft 
+lines            5        5,5      Left 
+civic            5        6,11     Down 
+civic            5        10,11    Up 
+test             4        2,8      Right 
+stack            5        1,1      Right 
+
+STACK.......
+.....G.TEST.
+.....N......
+.....I......
+SENILM......
+.....M....C.
+.....AS...I.
+.....R.D..V.
+J....G..R.I.
+A....O...OC.
+V....R....W.
+A....P......
