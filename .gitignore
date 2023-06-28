@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+!lab12/Ex1/plugins/*.class
 
 # Log file
 *.log
@@ -21,4 +22,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+!JogoDoGalo.jar
+
+# Local History for Visual Studio Code
+.history/
